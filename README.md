@@ -1,7 +1,7 @@
-Simple app on Python with GUI (customtkinter)
+Simple app on Python with GUI (customtkinter).
 
 
 addictions:
-requests
-phyton-dotenv
-customtkinter
+requests,
+phyton-dotenv,
+customtkinter.
