@@ -1,1 +1,5 @@
-# weather-app-with-GUI
+Simple app on Python with GUI (customtkinter)
+addictions:
+requests
+phyton-dotenv
+customtkinter
